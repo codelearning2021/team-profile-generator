@@ -50,9 +50,10 @@ First, clone the Github repository. Node will need to be downloaded if it has no
 ## Usage 
 Use inquirer from your command line to answer questions about your project. Run "node index.js" to get started on building your page.
 
-<img src="./assets/image/samplepage.png">
+<img src="https://github.com/codelearning2021/team-profile-generator/blob/main/Assets/generatedHTMLteampage.png">
 
 ## Screencast
+https://github.com/codelearning2021/team-profile-generator/blob/main/Assets/getteamprocessgenerator.gif
 
 
 ## Tests
