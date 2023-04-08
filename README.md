@@ -1,12 +1,30 @@
-# team-profile-generator
+# Team Profile Generator 
 
-User Story
+
+## Description 
+This application generates a team profile based on user input using the Inquirer module from Node.js. It displays the information on a newly created html page with a corresponding CSS style sheet. The purpose of this repo is to exercise the implementation of Object Oriented Programming and Jest utilized Test Driven Development. 
+ 
+## Table of Contents
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Screencast](screencast)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)
+
+## User Story
+
+```md
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
+```
 
+## Acceptance Criteria
 
-Acceptance Criteria
+```md
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
@@ -24,3 +42,25 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
+```
+
+## Installation 
+First, clone the Github repository. Node will need to be downloaded if it has not been installed. Jest can be used for installation.
+
+## Usage 
+Use inquirer from your command line to answer questions about your project. Run "node index.js" to get started on building your page.
+
+<img src="./assets/image/samplepage.png">
+
+## Screencast
+
+
+## Tests
+From the repo folder, type `npm test` to run Jest for tests on constructors. 
+
+## License 
+This project is licensed under MIT
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+
+## Questions
+Contact me via my github: https://github.com/codelearning2021
