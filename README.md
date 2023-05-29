@@ -53,7 +53,9 @@ Use inquirer from your command line to answer questions about your project. Run 
 <img src="https://github.com/codelearning2021/team-profile-generator/blob/main/Assets/generatedHTMLteampage.png">
 
 ## Screencast
-https://github.com/codelearning2021/team-profile-generator/blob/main/Assets/getteamprocessgenerator.gif
+Download here:
+https://github.com/codelearning2021/team-profile-generator/raw/main/Assets/Team%20Profile%20Generator.mp4
+
 
 
 ## Tests
